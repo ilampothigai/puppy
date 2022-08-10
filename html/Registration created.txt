@@ -1,0 +1,36 @@
+<html>
+<head>
+<h1>Registration</h1>
+</head>
+<body>
+<form>
+<label>Name:</label>
+<input type="text" placeholder="Enter Name"/></br><br/>
+<label>Email:</label>
+<input type="Email"placeholder="Enter Email"/></br><br/>
+<label>Website:</label>
+<input type="C:\Users\dell\Desktop\pothigai\html"/></br><br/>
+<label>Create ID: </label>
+<input type="text" placeholder="Enter ID"/></br><br/>
+<label>Country :</label>
+<select>
+<option>INDIA</option>
+<option>AUSTRIA</option>
+<option>ITALY</option>
+<option>NEPAL</option>
+<option>SRI LANKA</option>
+</select></br><br/>
+<label>Age :</label>
+<input type="number"/></br><br/>
+<label>DOB :</label>
+<input type="date"></br><br/>
+<label>Week :</label>
+<input type="Month"/></br><br/>
+<label>Month :</label>
+<input type="Month"/></br><br/>
+<label>Time :</label>
+<input type="Time"/></br><br/>
+<label> Date Time :</label>
+<input type="Date"/>
+<input type="Time"/></br><br/>
+<button>Submit</button>
